@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/janek26/project-ankh.git
+[submodule "validator"]
+	path = validator
+	url = https://github.com/ccolorado/AnkhValidator.git
